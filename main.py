@@ -2,8 +2,7 @@
 
 import random, fingers
 
-
-# main
+# game
 
 def game():
     # init
